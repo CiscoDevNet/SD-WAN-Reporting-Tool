@@ -14,3 +14,5 @@ OVA file: [Cisco SD-WAN Reporting OVA](https://developer.cisco.com/fileMedia/dow
 
 
 The Cisco SD-WAN Reporting Utiliy can be used in the [Cisco DevNet Reservable Sandbox for SD-WAN](https://devnetsandbox.cisco.com/RM/Diagram/Index/c9679e49-6751-4f43-9bb4-9d7ee162b069?diagramType=Topology) fabric or the [Cisco DevNet Always On Sandbox for SD-WAN](https://devnetsandbox.cisco.com/RM/Diagram/Index/fa7f7ef9-e224-4ee7-a3fe-0f25506e9db9?) for testing purposes.
+
+*Note: This tool only supports single-tenant vManage deployments.
